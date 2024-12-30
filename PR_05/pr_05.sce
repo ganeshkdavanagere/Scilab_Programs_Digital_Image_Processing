@@ -1,7 +1,7 @@
 // Noise Reduction using Mean and Median Filters
 
 // Load the image
-image_path = "C:\Users\mahim\OneDrive\Desktop\PR_05\10.jpg";
+image_path = "Add your image path here";// Edit to your path image
 img = imread(image_path);
 
 // Convert to grayscale if it's a color image
